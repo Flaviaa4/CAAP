@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CAAP/static/css/main.779b308b.css",
-    "main.js": "/CAAP/static/js/main.ba38cbe0.js",
+    "main.js": "/CAAP/static/js/main.c42fdca5.js",
     "index.html": "/CAAP/index.html",
     "main.779b308b.css.map": "/CAAP/static/css/main.779b308b.css.map",
-    "main.ba38cbe0.js.map": "/CAAP/static/js/main.ba38cbe0.js.map"
+    "main.c42fdca5.js.map": "/CAAP/static/js/main.c42fdca5.js.map"
   },
   "entrypoints": [
     "static/css/main.779b308b.css",
-    "static/js/main.ba38cbe0.js"
+    "static/js/main.c42fdca5.js"
   ]
 }
