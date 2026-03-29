@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000/api",
+  baseURL: "https://caap-1.onrender.com/",
 });
 
 export const getWeather = (city) => API.get(`/weather?city=${city}`);
