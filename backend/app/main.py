@@ -4,9 +4,7 @@ from app.routes.weather import weather_bp
 
 def create_app():
     app = Flask(__name__)
-
-    CORS(app)  # Allow ALL origins
-
+    CORS(app)
     app.register_blueprint(weather_bp, url_prefix="/api")
 
     @app.route("/")
