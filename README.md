@@ -34,26 +34,28 @@ CAAP is a full-stack web application built for African communities — particula
 | Backend Hosting | Render |
 | Version Control | Git & GitHub |
 
-
-## Project Structure
-
+---
+ 
+## 📁 Project Structure
+ 
+```
 CAAP/
 ├── backend/
 │   ├── app/
 │   │   ├── __init__.py
-│   │   ├── main.py                 
+│   │   ├── main.py                
 │   │   ├── routes/
 │   │   │   ├── __init__.py
-│   │   │   └── weather.py           
+│   │   │   └── weather.py          
 │   │   └── services/
 │   │       ├── __init__.py
 │   │       └── weather_service.py   
 │   ├── tests/
-│   │   └── test1.py               
-│   ├── .env                         
-│   ├── requirements.txt            
-│   ├── render.yaml                 
-│   └── run.py                      
+│   │   └── test1.py                 
+│   ├── .env                        
+│   ├── requirements.txt             
+│   ├── render.yaml                  
+│   └── run.py                       
 │
 ├── frontend/
 │   ├── public/
@@ -83,7 +85,9 @@ CAAP/
 │
 ├── .gitignore
 └── README.md
-
+```
+ 
+---
 
 ## Local Setup — Step by Step
 
