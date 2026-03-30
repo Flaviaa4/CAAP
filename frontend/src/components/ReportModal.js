@@ -135,7 +135,7 @@ export default function ReportModal({ onClose, onSubmit }) {
               <input
                 style={s.input}
                 name="name"
-                placeholder="e.g. Amara Mbeki"
+                placeholder="e.g. Everlyne"
                 onChange={handleChange}
               />
             </div>
