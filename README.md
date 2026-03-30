@@ -36,7 +36,7 @@ CAAP is a full-stack web application built for African communities — particula
 
 ---
  
-## 📁 Project Structure
+## Project Structure
  
 ```
 CAAP/
@@ -102,7 +102,7 @@ Make sure you have the following installed:
 - [Git](https://git-scm.com)
 
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 bash
 git clone https://github.com/Flaviaa4/CAAP.git
@@ -260,9 +260,6 @@ https://flaviaa4.github.io/CAAP
 ## Author
 
 **Flavienne BENIHIRWE**  
-African Leadership University  
-Software Engineering — 2026
-
 
 ## References
 
